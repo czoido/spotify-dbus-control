@@ -1,0 +1,5 @@
+[requires]
+dbus-asio/0.1
+
+[generators]
+cmake
